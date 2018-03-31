@@ -68,4 +68,4 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> :panda_face: :panda_face: :panda_face: :panda_face: :panda_face: is my favorite
+>>  :panda_face: :panda_face: :panda_face: :panda_face: :panda_face: is my fav emoji!!!
